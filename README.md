@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Developement<br>- 🌱 I’m currently learning java<br>- 👯 I’m looking to collaborate on Full Stack<br>- 🤔 I’m looking for help with Backend<br>- 💬 Ask me about Hosting and Deploy<br>- 📫 How to reach me: https://satyajitbehera-25.github.io/portfolioIg/<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: 💡 The first website is still online!<br>The very first website ever created is still accessible today. It was developed by Tim Berners-Lee, the inventor of the World Wide Web, in 1991. The site was hosted at CERN and its purpose was simply to explain what the World Wide Web was and how to use it.
+🔭 I’m currently working on Web Developement<br>- 🌱 I’m currently learning java<br>- 👯 I’m looking to collaborate on Full Stack<br>- 🤔 I’m looking for help with Backend<br>- 💬 Ask me about Hosting and Deploy<br>- 📫 How to reach me:https://satyajitbehera-25.github.io/portfolio-website/<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: 💡 The first website is still online!<br>The very first website ever created is still accessible today. It was developed by Tim Berners-Lee, the inventor of the World Wide Web, in 1991. The site was hosted at CERN and its purpose was simply to explain what the World Wide Web was and how to use it.
 
 
 ## 🌐 Socials:
